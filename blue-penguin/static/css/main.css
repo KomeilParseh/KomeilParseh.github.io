@@ -138,7 +138,7 @@ thead {
     padding: 0 .3em;
     border: 1px transparent solid;
     border-radius: 5px;
-    margin: 0 0 0.3em 0;
+    margin: 0 0 0.3em;
 }
 .info a.tags:hover {
     background: inherit;
@@ -167,14 +167,14 @@ thead {
     border-radius: 3px;
 }
 .code > .highlight {
-    border-radius: 0px 3px 3px 0px;
+    border-radius: 0 3px 3px 0;
 }
 .linenos {
-    border-radius: 3px 0px 0px 3px;
+    border-radius: 3px 0 0 3px;
     background-color: #073642;
     border-right: 1px solid #00232C;
     color: #586E75;
-    text-shadow: 0px -1px #021014;
+    text-shadow: 0 -1px #021014;
     font-size: 12.6px;
 }
 td.code {
@@ -186,7 +186,7 @@ td.code {
 }
 
 img {
-    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
     border-radius: 0.3em;
     max-width: 100%;
     display: block;
@@ -252,7 +252,7 @@ nav li {
 }
 nav a {
     display: block;
-    padding: 4.5em 10px 10px 10px;
+    padding: 4.5em 10px 10px;
 }
 nav a:hover {
     background-color: #d3d3d3;
@@ -328,7 +328,7 @@ code {
     font-size: 12.6px;
     line-height: 18px;
     padding-bottom: 2px;
-    padding-left: 0px;
+    padding-left: 0;
     padding-right: 4px;
     padding-top: 2px;
 }
@@ -362,20 +362,20 @@ footer p { margin: 0; }
     }
     .date {
         width: 100%;
-        margin: 0 0 .5em 0;
+        margin: 0 0 .5em;
     }
     .post {
-        margin: 0 0 4.5em 0;
+        margin: 0 0 4.5em;
     }
     .post pre,
     .post code {
         white-space: pre-wrap;
     }
     .archives {
-        margin: 0 0 1.5em 0 !important;
+        margin: 0 0 1.5em !important;
     }
     nav ul {
-        margin: 0 0 1em 0;
+        margin: 0 0 1em;
     }
 }
 @media print {
