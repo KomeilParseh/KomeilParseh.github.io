@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Mohamad Balkhi's Blog</title><link href="https://KomeilParseh.github.io/" rel="alternate"></link><link href="https://KomeilParseh.github.io/feeds/all-en.atom.xml" rel="self"></link><id>https://KomeilParseh.github.io/</id><updated>2021-06-18T13:21:00+04:30</updated><subtitle></subtitle><entry><title>Mozlink!</title><link href="https://KomeilParseh.github.io/blog/2021/May/04/Mozlink/" rel="alternate"></link><published>2021-05-04T21:00:00+04:30</published><updated>2021-06-18T13:21:00+04:30</updated><author><name>komeilParseh</name></author><id>tag:komeilparseh.github.io,2021-05-04:/blog/2021/May/04/Mozlink/</id><summary type="html">&lt;p&gt;&lt;img src=https://raw.githubusercontent.com/KomeilParseh/mozlink/main/app/static/logo.png align="right"&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mohamad Balkhi's Blog</title><link href="https://mmdbalkhi.github.io/" rel="alternate"></link><link href="https://mmdbalkhi.github.io/feeds/all-en.atom.xml" rel="self"></link><id>https://mmdbalkhi.github.io/</id><updated>2021-06-18T13:21:00+04:30</updated><subtitle></subtitle><entry><title>Mozlink!</title><link href="https://mmdbalkhi.github.io/blog/2021/May/04/Mozlink/" rel="alternate"></link><published>2021-05-04T21:00:00+04:30</published><updated>2021-06-18T13:21:00+04:30</updated><author><name>komeilParseh</name></author><id>tag:mmdbalkhi.github.io,2021-05-04:/blog/2021/May/04/Mozlink/</id><summary type="html">&lt;p&gt;&lt;img src=https://raw.githubusercontent.com/KomeilParseh/mozlink/main/app/static/logo.png align="right"&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A program to build &lt;strong&gt;shortLinks&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -76,7 +76,7 @@
 
 
 
-&lt;/div&gt;</content><category term="programing"></category><category term="tecnology"></category><category term="programin"></category><category term="python"></category><category term="mozlink"></category></entry><entry><title>Read docx file with python in command line</title><link href="https://KomeilParseh.github.io/blog/2021/May/01/Read%20docx%20file%20with%20python%20in%20command%20line/" rel="alternate"></link><published>2021-05-01T15:00:00+04:30</published><updated>2021-05-01T15:00:00+04:30</updated><author><name>komeilParseh</name></author><id>tag:komeilparseh.github.io,2021-05-01:/blog/2021/May/01/Read docx file with python in command line/</id><content type="html">&lt;h2&gt;prerequisites:&lt;/h2&gt;
+&lt;/div&gt;</content><category term="programing"></category><category term="tecnology"></category><category term="programin"></category><category term="python"></category><category term="mozlink"></category></entry><entry><title>Read docx file with python in command line</title><link href="https://mmdbalkhi.github.io/blog/2021/May/01/Read%20docx%20file%20with%20python%20in%20command%20line/" rel="alternate"></link><published>2021-05-01T15:00:00+04:30</published><updated>2021-05-01T15:00:00+04:30</updated><author><name>komeilParseh</name></author><id>tag:mmdbalkhi.github.io,2021-05-01:/blog/2021/May/01/Read docx file with python in command line/</id><content type="html">&lt;h2&gt;prerequisites:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="http://python.org/"&gt;python3&lt;/a&gt; download And install form &lt;a href="https://www.python.org/downloads/"&gt;hare&lt;/a&gt;&lt;/p&gt;
@@ -92,7 +92,7 @@
 &lt;ul&gt;
 &lt;li&gt;python docx_read.py path/to/file&lt;/li&gt;
 &lt;/ul&gt;
-&lt;script src="https://gist.github.com/KomeilParseh/52093f55788fc184ee23ee4c5e9b05e4.js"&gt;&lt;/script&gt;</content><category term="programing"></category><category term="tecnology"></category><category term="programin"></category><category term="python"></category></entry><entry><title>Git Cheat Sheet</title><link href="https://KomeilParseh.github.io/blog/2021/Mar/31/git%20cheat%20sheet/" rel="alternate"></link><published>2021-03-31T11:00:00+04:30</published><updated>2021-05-12T10:30:00+04:30</updated><author><name>komeilParseh</name></author><id>tag:komeilparseh.github.io,2021-03-31:/blog/2021/Mar/31/git cheat sheet/</id><summary type="html">&lt;h2&gt;List of git commands&lt;/h2&gt;
+&lt;script src="https://gist.github.com/KomeilParseh/52093f55788fc184ee23ee4c5e9b05e4.js"&gt;&lt;/script&gt;</content><category term="programing"></category><category term="tecnology"></category><category term="programin"></category><category term="python"></category></entry><entry><title>Git Cheat Sheet</title><link href="https://mmdbalkhi.github.io/blog/2021/Mar/31/git%20cheat%20sheet/" rel="alternate"></link><published>2021-03-31T11:00:00+04:30</published><updated>2021-05-12T10:30:00+04:30</updated><author><name>komeilParseh</name></author><id>tag:mmdbalkhi.github.io,2021-03-31:/blog/2021/Mar/31/git cheat sheet/</id><summary type="html">&lt;h2&gt;List of git commands&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;git init&lt;/code&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Get started with git&lt;/li&gt;
@@ -231,7 +231,7 @@
 &lt;p&gt;&lt;code&gt;git config&lt;/code&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Used for tool settings. Like the author profile as well Proxy settings for clientgate&lt;/li&gt;
-&lt;/ul&gt;</content><category term="tecnology"></category><category term="tecnology"></category><category term="programin"></category><category term="git"></category></entry><entry><title>License and about This site</title><link href="https://KomeilParseh.github.io/blog/2021/Mar/31/License/" rel="alternate"></link><published>2021-03-31T10:30:00+04:30</published><updated>2021-05-12T14:00:00+04:30</updated><author><name>komeilParseh</name></author><id>tag:komeilparseh.github.io,2021-03-31:/blog/2021/Mar/31/License/</id><summary type="html">&lt;blockquote&gt;
+&lt;/ul&gt;</content><category term="tecnology"></category><category term="tecnology"></category><category term="programin"></category><category term="git"></category></entry><entry><title>License and about This site</title><link href="https://mmdbalkhi.github.io/blog/2021/Mar/31/License/" rel="alternate"></link><published>2021-03-31T10:30:00+04:30</published><updated>2021-05-12T14:00:00+04:30</updated><author><name>komeilParseh</name></author><id>tag:mmdbalkhi.github.io,2021-03-31:/blog/2021/Mar/31/License/</id><summary type="html">&lt;blockquote&gt;
 &lt;p&gt;A blog for writing anything related to technology&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;License&lt;/h2&gt;
