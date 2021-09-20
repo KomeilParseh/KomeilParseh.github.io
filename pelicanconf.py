@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'Komeil Parseh'
-SITENAME = 'Komeil Parseh'
-SITEURL = 'https://komeilparseh.github.io/'
+AUTHOR = 'Mohamad Balkhi'
+SITENAME = 'Mohamad Balkhi\'s Blog'
+SITEURL = 'https://mmdbalkhi.github.io/'
 
 PATH = 'content/Blog'
 STATIC_PATHS = [
@@ -25,7 +25,7 @@ CATEGORY_FEED_ATOM = 'feeds/categories/{slug}.atom.xml'
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('RSS', "https://komeilparseh.github.com/feeds/all.atom.xml"),
+         ('RSS', "https://mmdbalkhi.github.com/feeds/all.atom.xml"),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
@@ -81,9 +81,9 @@ MENU_INTERNAL_PAGES = (
 
 # additional menu items
 MENUITEMS = (
-    ('GitHub', 'https://github.com/komeilparseh'),
-    ('Persian Blog', 'https://virgool.io/@komeilparseh'),
-    ('RSS', 'https://KomeilParseh.github.io/feeds/all.atom.xml'),
+    ('GitHub', 'https://github.com/mmdbalkhi'),
+    ('Persian Blog', 'https://virgool.io/@mmdbalkhi'),
+    ('RSS', 'https://mmdbalkhi.github.io/feeds/all.atom.xml'),
 )
 
 EXTRA_PATH_METADATA = {
